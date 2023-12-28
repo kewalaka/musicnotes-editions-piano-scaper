@@ -30,6 +30,10 @@ The list is taken from the official [location](https://www.musicnotes.com/search
 
 The information comes from the public website, using information embedded in a data block.  Some scores don't have the rating available in this tabular location, which is why it can be empty even if there is a rating when you click on the score.
 
-## Fixes, suggestions
+## How it works
+
+I've included the [source code](https://github.com/kewalaka/musicnotes-editions-piano-scaper/blob/main/musicnotesexporter.py) to the python app.  I know, it's not very good Python.  Sorry :-).
+
+### Fixes, suggestions
 
 ...are welcome, though I'm not planning to keep this up to date.
